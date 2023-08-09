@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>P003_Reversing_letters_and_words</name>
+	<name>P050_Passing_returning_mutable_objects_to_from_an_immutable_class</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1689946802925</id>
+			<id>1689946802937</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
